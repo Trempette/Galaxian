@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "304980304072",
+    "firebase_url": "https://galaxian-aae4a.firebaseio.com",
+    "project_id": "galaxian-aae4a",
+    "storage_bucket": "galaxian-aae4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304980304072:android:ad009910a89ecf48",
+        "android_client_info": {
+          "package_name": "fr.wildcodeschool.galaxian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304980304072-f3ghcho01bte41v0a4q96r3le5m2dcib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.wildcodeschool.galaxian",
+            "certificate_hash": "a8bdfe827fa5b2187e7d2af5a435cd640b5dc64a"
+          }
+        },
+        {
+          "client_id": "304980304072-k102ngm2sgo4pmhsjq1as1pa2kag5d13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJdkjCXOVdpWjMawhUs2IqJrNZIk7NRDc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304980304072-k102ngm2sgo4pmhsjq1as1pa2kag5d13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
